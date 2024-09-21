@@ -1,0 +1,25 @@
+Variables:
+1. Edad (años) int
+2. Estatura (centímetros) int
+3. Peso (libras) int
+4. circunferencia de la cintura(centímetros) float 1 decimal
+5. Sexo: 
+
+
+main():
+datos:[
+nombre, edad, estatura, peso, circ_cin]
+pesok = peso / 2.20462
+estaturam = estatura/100
+
+
+
+def indice_masa_corporal(pesok, estaturam):
+imc = pesok/estaturam
+return imc
+
+def percentil_IMC(IMC)
+If imc > 
+
+
+	
